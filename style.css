@@ -1,0 +1,46 @@
+
+
+p{
+    color:burlywood;
+}
+h1{
+    
+    }
+    .container{
+        background-color:hotpink;
+    }
+    .pratima{
+        background-color:cadetblue;
+    }
+    /* id selector*/
+    #college h1{
+    background-color:bisque;
+    color:honeydew;
+    
+    }
+
+    .Image{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction:column;
+    flex-direction;column-reverse;
+    padding-top:4px
+    }
+    #college p{
+        color:aqua;
+    }
+    img {
+        height:100px;
+        width:200px;
+        margin:10px;
+        margin-top:10px;
+        margin-bottom:10px;
+        margin-right:30px;
+        margin-left:10px;
+
+
+    }
+
+    
+    
+/* css selectors class id */
